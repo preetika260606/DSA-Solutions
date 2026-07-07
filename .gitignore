@@ -1,0 +1,11 @@
+# Ignore executable files
+*.exe
+
+# Ignore Trunk generated files
+.trunk/
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore output folders (if they only contain compiled files)
+**/output/
