@@ -2,7 +2,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Recursion {
+public class memoization {
     
    public static int rec(int amount, int[] coins, int i) {
 
